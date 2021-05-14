@@ -43,6 +43,7 @@
           "Ecoba.HelpDesk": "1.0.0",
           "Ecoba.Identity": "1.0.0",
           "Ecoba.Library": "1.0.0",
+          "Ecoba.ProjectSystem": "1.0.0",
           "Ecoba.Timekeeper": "1.0.0",
           "Microsoft.AspNetCore.SpaServices.Extensions": "3.1.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11",
@@ -3639,6 +3640,18 @@
           "Ecoba.Library.dll": {}
         }
       },
+      "Ecoba.ProjectSystem/1.0.0": {
+        "dependencies": {
+          "Ecoba.BasePlugin": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.11"
+        },
+        "runtime": {
+          "Ecoba.ProjectSystem.dll": {}
+        },
+        "compile": {
+          "Ecoba.ProjectSystem.dll": {}
+        }
+      },
       "Ecoba.Timekeeper/1.0.0": {
         "dependencies": {
           "Ecoba.BasePlugin": "1.0.0",
@@ -7020,6 +7033,11 @@
       "sha512": ""
     },
     "Ecoba.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecoba.ProjectSystem/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
