@@ -43,8 +43,11 @@
           "Ecoba.HelpDesk": "1.0.0",
           "Ecoba.Identity": "1.0.0",
           "Ecoba.Library": "1.0.0",
+<<<<<<< HEAD
           "Ecoba.ProjectSystem": "1.0.0",
           "Ecoba.SapConnector": "1.0.0",
+=======
+>>>>>>> parent of b888c12 (initial)
           "Ecoba.Timekeeper": "1.0.0",
           "Microsoft.AspNetCore.SpaServices.Extensions": "3.1.15",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.15",
@@ -3603,6 +3606,7 @@
           "Ecoba.Library.dll": {}
         }
       },
+<<<<<<< HEAD
       "Ecoba.ProjectSystem/1.0.0": {
         "dependencies": {
           "Ecoba.BasePlugin": "1.0.0",
@@ -3628,6 +3632,8 @@
           "Ecoba.SapConnector.dll": {}
         }
       },
+=======
+>>>>>>> parent of b888c12 (initial)
       "Ecoba.Timekeeper/1.0.0": {
         "dependencies": {
           "Ecoba.BasePlugin": "1.0.0",
@@ -7026,6 +7032,7 @@
       "serviceable": false,
       "sha512": ""
     },
+<<<<<<< HEAD
     "Ecoba.ProjectSystem/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -7036,6 +7043,8 @@
       "serviceable": false,
       "sha512": ""
     },
+=======
+>>>>>>> parent of b888c12 (initial)
     "Ecoba.Timekeeper/1.0.0": {
       "type": "project",
       "serviceable": false,
