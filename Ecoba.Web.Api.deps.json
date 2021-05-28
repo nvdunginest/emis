@@ -3606,6 +3606,7 @@
       "Ecoba.ProjectSystem/1.0.0": {
         "dependencies": {
           "Ecoba.BasePlugin": "1.0.0",
+          "Ecoba.SapConnector": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.15",
           "Microsoft.Extensions.Logging": "3.1.15",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "3.1.11"
